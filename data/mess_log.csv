@@ -1,0 +1,448 @@
+date,day,meal,menu,special,nonveg,dessert,exam,festival,prepared,served,leftover_meals,leftover_kg
+2026-06-01,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,365,199,166,69.2
+2026-06-01,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,368,223,145,61.9
+2026-06-01,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,364,266,98,39.8
+2026-06-02,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,380,221,159,71.9
+2026-06-02,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,367,236,131,55.1
+2026-06-02,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,368,302,66,26.6
+2026-06-03,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,379,219,160,62.6
+2026-06-03,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,364,217,147,67.6
+2026-06-03,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,370,333,37,15.9
+2026-06-04,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,371,203,168,65.8
+2026-06-04,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,370,231,139,63.7
+2026-06-04,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,368,318,50,23.0
+2026-06-05,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,363,212,151,59.2
+2026-06-05,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,363,281,82,32.3
+2026-06-05,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,364,324,40,18.4
+2026-06-06,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,369,214,155,68.1
+2026-06-06,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,373,253,120,48.1
+2026-06-06,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,363,284,79,34.1
+2026-06-07,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,363,181,182,73.1
+2026-06-07,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,372,300,72,30.0
+2026-06-07,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,360,246,114,46.9
+2026-06-08,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,373,216,157,68.5
+2026-06-08,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,376,231,145,66.8
+2026-06-08,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,369,264,105,43.8
+2026-06-09,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,364,222,142,56.7
+2026-06-09,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,372,255,117,44.3
+2026-06-09,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,367,291,76,34.5
+2026-06-10,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,373,239,134,58.5
+2026-06-10,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,378,219,159,70.1
+2026-06-10,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,373,316,57,25.6
+2026-06-11,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,380,220,160,72.3
+2026-06-11,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,380,211,169,73.8
+2026-06-11,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,367,312,55,23.9
+2026-06-12,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,380,218,162,62.9
+2026-06-12,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,373,311,62,25.1
+2026-06-12,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,380,322,58,25.3
+2026-06-13,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,373,219,154,61.3
+2026-06-13,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,372,280,92,40.3
+2026-06-13,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,380,272,108,42.2
+2026-06-14,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,373,168,205,85.8
+2026-06-14,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,360,300,60,25.8
+2026-06-14,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,373,236,137,57.8
+2026-06-15,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,365,214,151,68.4
+2026-06-15,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,370,214,156,69.2
+2026-06-15,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,372,254,118,52.8
+2026-06-16,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,363,200,163,62.1
+2026-06-16,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,377,242,135,53.5
+2026-06-16,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,366,302,64,27.0
+2026-06-17,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,363,230,133,59.7
+2026-06-17,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,374,199,175,74.1
+2026-06-17,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,375,322,53,22.3
+2026-06-18,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,380,215,165,73.4
+2026-06-18,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,371,222,149,62.9
+2026-06-18,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,373,316,57,25.1
+2026-06-19,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,374,211,163,64.5
+2026-06-19,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,365,289,76,31.2
+2026-06-19,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,363,295,68,29.9
+2026-06-20,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,379,218,161,65.7
+2026-06-20,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,361,280,81,32.3
+2026-06-20,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,372,290,82,33.7
+2026-06-21,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,360,168,192,73.8
+2026-06-21,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,373,305,68,29.3
+2026-06-21,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,371,253,118,50.4
+2026-06-22,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,363,206,157,62.3
+2026-06-22,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,372,218,154,70.4
+2026-06-22,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,376,248,128,58.8
+2026-06-23,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,372,214,158,65.9
+2026-06-23,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,365,239,126,49.0
+2026-06-23,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,362,286,76,33.9
+2026-06-24,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,380,226,154,60.7
+2026-06-24,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,380,197,183,77.8
+2026-06-24,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,367,308,59,26.3
+2026-06-25,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,364,201,163,66.4
+2026-06-25,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,380,192,188,84.2
+2026-06-25,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,373,313,60,25.0
+2026-06-26,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,369,224,145,64.1
+2026-06-26,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,380,285,95,36.9
+2026-06-26,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,375,294,81,33.0
+2026-06-27,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,367,217,150,60.1
+2026-06-27,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,372,265,107,46.6
+2026-06-27,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,373,291,82,35.7
+2026-06-28,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,375,169,206,77.9
+2026-06-28,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,368,302,66,26.9
+2026-06-28,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,380,258,122,49.2
+2026-06-29,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,375,221,154,64.5
+2026-06-29,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,379,209,170,73.4
+2026-06-29,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,371,260,111,43.4
+2026-06-30,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,369,213,156,70.2
+2026-06-30,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,361,224,137,52.8
+2026-06-30,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,378,307,71,32.2
+2026-07-01,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,364,241,123,52.0
+2026-07-01,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,371,225,146,63.0
+2026-07-01,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,360,324,36,15.6
+2026-07-02,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,366,218,148,67.8
+2026-07-02,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,380,214,166,66.8
+2026-07-02,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,379,326,53,20.5
+2026-07-03,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,364,208,156,70.2
+2026-07-03,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,365,295,70,31.0
+2026-07-03,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,371,317,54,24.0
+2026-07-04,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,366,244,122,55.4
+2026-07-04,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,377,272,105,41.2
+2026-07-04,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,379,296,83,38.2
+2026-07-05,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,362,168,194,84.2
+2026-07-05,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,377,297,80,35.5
+2026-07-05,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,369,251,118,46.6
+2026-07-06,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,366,211,155,65.5
+2026-07-06,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,374,211,163,70.8
+2026-07-06,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,363,264,99,42.0
+2026-07-07,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,368,213,155,64.0
+2026-07-07,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,364,240,124,51.8
+2026-07-07,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,377,299,78,29.9
+2026-07-08,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,374,229,145,65.8
+2026-07-08,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,375,212,163,65.0
+2026-07-08,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,365,313,52,22.0
+2026-07-09,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,360,209,151,59.1
+2026-07-09,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,370,219,151,63.0
+2026-07-09,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,378,343,35,14.7
+2026-07-10,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,369,217,152,68.2
+2026-07-10,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,371,290,81,33.5
+2026-07-10,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,362,300,62,24.4
+2026-07-11,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,371,236,135,58.2
+2026-07-11,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,360,289,71,27.0
+2026-07-11,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,361,280,81,35.3
+2026-07-12,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,370,159,211,94.1
+2026-07-12,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,363,301,62,26.1
+2026-07-12,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,375,258,117,51.7
+2026-07-13,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,364,227,137,52.2
+2026-07-13,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,373,187,186,80.1
+2026-07-13,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,370,279,91,35.1
+2026-07-14,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,371,220,151,61.4
+2026-07-14,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,376,244,132,56.0
+2026-07-14,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,366,300,66,26.5
+2026-07-15,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,370,236,134,55.4
+2026-07-15,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,377,218,159,60.8
+2026-07-15,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,369,332,37,14.9
+2026-07-16,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,375,208,167,68.8
+2026-07-16,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,376,199,177,81.5
+2026-07-16,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,376,323,53,21.6
+2026-07-17,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,366,218,148,64.1
+2026-07-17,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,363,290,73,29.6
+2026-07-17,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,370,305,65,28.5
+2026-07-18,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,364,215,149,63.7
+2026-07-18,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,380,270,110,42.4
+2026-07-18,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,361,284,77,31.7
+2026-07-19,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,377,184,193,87.3
+2026-07-19,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,377,287,90,38.4
+2026-07-19,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,372,241,131,52.8
+2026-07-20,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,360,218,142,54.2
+2026-07-20,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,375,217,158,67.8
+2026-07-20,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,361,256,105,46.6
+2026-07-21,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,377,218,159,68.3
+2026-07-21,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,379,243,136,53.1
+2026-07-21,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,379,301,78,35.2
+2026-07-22,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,362,214,148,58.6
+2026-07-22,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,380,223,157,65.4
+2026-07-22,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,365,326,39,15.1
+2026-07-23,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,365,224,141,63.6
+2026-07-23,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,373,216,157,69.6
+2026-07-23,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,380,310,70,26.5
+2026-07-24,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,364,206,158,70.2
+2026-07-24,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,377,308,69,30.2
+2026-07-24,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,369,301,68,26.8
+2026-07-25,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,361,212,149,60.3
+2026-07-25,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,373,287,86,36.6
+2026-07-25,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,378,275,103,47.0
+2026-07-26,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,361,175,186,78.1
+2026-07-26,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,376,278,98,37.4
+2026-07-26,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,363,255,108,47.8
+2026-07-27,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,373,199,174,74.2
+2026-07-27,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,372,213,159,66.1
+2026-07-27,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,360,278,82,35.7
+2026-07-28,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,379,224,155,66.3
+2026-07-28,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,364,252,112,46.8
+2026-07-28,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,373,298,75,31.8
+2026-07-29,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,362,246,116,50.1
+2026-07-29,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,366,215,151,68.4
+2026-07-29,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,380,332,48,18.2
+2026-07-30,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,360,215,145,54.9
+2026-07-30,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,363,234,129,59.5
+2026-07-30,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,362,314,48,19.0
+2026-07-31,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,363,211,152,59.1
+2026-07-31,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,360,304,56,22.5
+2026-07-31,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,378,312,66,26.3
+2026-08-01,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,365,208,157,71.5
+2026-08-01,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,371,260,111,49.2
+2026-08-01,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,364,280,84,36.9
+2026-08-02,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,362,170,192,77.3
+2026-08-02,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,377,305,72,31.5
+2026-08-02,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,374,259,115,49.9
+2026-08-03,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,1,0,368,264,104,47.3
+2026-08-03,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,1,0,361,274,87,38.1
+2026-08-03,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,1,0,360,322,38,14.6
+2026-08-04,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,1,0,380,270,110,47.9
+2026-08-04,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,1,0,379,300,79,30.4
+2026-08-04,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,1,0,369,324,45,18.2
+2026-08-05,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,1,0,379,270,109,42.7
+2026-08-05,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,1,0,375,264,111,47.6
+2026-08-05,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,1,0,370,350,20,8.2
+2026-08-06,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,1,0,378,258,120,52.7
+2026-08-06,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,1,0,375,270,105,45.7
+2026-08-06,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,1,0,364,350,14,6.4
+2026-08-07,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,1,0,363,270,93,38.0
+2026-08-07,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,1,0,380,350,30,11.8
+2026-08-07,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,1,0,373,350,23,9.6
+2026-08-08,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,1,0,374,272,102,46.7
+2026-08-08,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,1,0,378,323,55,22.3
+2026-08-08,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,1,0,368,315,53,20.3
+2026-08-09,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,1,0,380,228,152,66.4
+2026-08-09,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,1,0,379,350,29,11.8
+2026-08-09,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,1,0,379,303,76,33.4
+2026-08-10,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,1,0,360,261,99,44.3
+2026-08-10,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,1,0,379,249,130,58.2
+2026-08-10,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,1,0,378,311,67,27.7
+2026-08-11,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,1,0,367,264,103,42.2
+2026-08-11,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,1,0,372,310,62,26.6
+2026-08-11,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,1,0,367,338,29,12.9
+2026-08-12,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,1,0,369,283,86,37.5
+2026-08-12,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,1,0,370,258,112,44.8
+2026-08-12,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,1,0,373,350,23,9.0
+2026-08-13,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,1,0,361,270,91,36.6
+2026-08-13,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,1,0,364,260,104,46.4
+2026-08-13,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,1,0,378,350,28,10.9
+2026-08-14,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,1,0,377,260,117,51.0
+2026-08-14,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,1,0,375,350,25,10.2
+2026-08-14,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,1,0,362,340,22,9.3
+2026-08-15,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,1,375,259,116,51.6
+2026-08-15,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,1,366,323,43,19.1
+2026-08-15,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,1,367,306,61,24.6
+2026-08-16,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,361,163,198,86.1
+2026-08-16,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,374,313,61,26.7
+2026-08-16,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,368,272,96,41.0
+2026-08-17,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,360,204,156,69.3
+2026-08-17,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,374,230,144,61.0
+2026-08-17,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,377,241,136,60.6
+2026-08-18,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,362,216,146,58.0
+2026-08-18,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,378,227,151,63.7
+2026-08-18,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,368,279,89,40.3
+2026-08-19,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,376,233,143,57.9
+2026-08-19,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,376,222,154,65.8
+2026-08-19,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,366,322,44,17.4
+2026-08-20,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,362,198,164,64.5
+2026-08-20,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,369,219,150,61.3
+2026-08-20,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,378,332,46,18.8
+2026-08-21,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,376,198,178,80.1
+2026-08-21,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,367,295,72,27.5
+2026-08-21,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,375,323,52,21.3
+2026-08-22,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,363,228,135,55.2
+2026-08-22,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,374,276,98,43.5
+2026-08-22,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,364,262,102,41.3
+2026-08-23,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,360,167,193,78.5
+2026-08-23,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,376,300,76,32.6
+2026-08-23,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,363,260,103,39.2
+2026-08-24,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,378,208,170,71.2
+2026-08-24,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,378,210,168,66.5
+2026-08-24,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,368,255,113,46.8
+2026-08-25,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,374,216,158,69.9
+2026-08-25,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,379,221,158,72.5
+2026-08-25,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,368,287,81,36.4
+2026-08-26,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,370,222,148,58.4
+2026-08-26,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,365,218,147,60.2
+2026-08-26,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,360,310,50,19.1
+2026-08-27,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,377,199,178,72.8
+2026-08-27,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,374,232,142,59.5
+2026-08-27,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,362,328,34,15.3
+2026-08-28,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,1,380,257,123,50.6
+2026-08-28,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,1,363,335,28,12.2
+2026-08-28,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,1,362,350,12,4.8
+2026-08-29,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,378,219,159,63.2
+2026-08-29,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,362,289,73,33.5
+2026-08-29,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,376,280,96,39.5
+2026-08-30,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,374,157,217,97.5
+2026-08-30,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,371,310,61,28.0
+2026-08-30,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,367,259,108,42.4
+2026-08-31,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,368,196,172,78.6
+2026-08-31,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,361,231,130,59.0
+2026-08-31,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,360,265,95,42.6
+2026-09-01,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,361,203,158,63.1
+2026-09-01,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,376,245,131,57.3
+2026-09-01,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,380,304,76,33.6
+2026-09-02,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,375,229,146,55.9
+2026-09-02,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,364,201,163,66.0
+2026-09-02,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,360,319,41,18.7
+2026-09-03,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,369,212,157,67.1
+2026-09-03,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,374,224,150,66.2
+2026-09-03,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,363,323,40,16.7
+2026-09-04,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,371,192,179,71.5
+2026-09-04,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,363,286,77,31.5
+2026-09-04,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,372,301,71,27.8
+2026-09-05,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,367,225,142,63.3
+2026-09-05,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,360,282,78,32.5
+2026-09-05,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,366,271,95,42.3
+2026-09-06,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,365,168,197,89.8
+2026-09-06,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,367,282,85,32.7
+2026-09-06,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,379,245,134,60.4
+2026-09-07,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,364,197,167,74.0
+2026-09-07,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,363,213,150,68.4
+2026-09-07,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,372,255,117,52.5
+2026-09-08,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,380,220,160,61.5
+2026-09-08,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,370,229,141,57.1
+2026-09-08,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,367,298,69,28.8
+2026-09-09,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,380,237,143,58.5
+2026-09-09,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,370,204,166,65.8
+2026-09-09,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,361,320,41,16.1
+2026-09-10,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,374,216,158,67.1
+2026-09-10,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,364,199,165,68.5
+2026-09-10,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,364,325,39,15.6
+2026-09-11,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,373,211,162,64.6
+2026-09-11,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,360,315,45,18.0
+2026-09-11,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,369,327,42,17.1
+2026-09-12,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,365,201,164,65.6
+2026-09-12,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,363,261,102,41.3
+2026-09-12,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,375,285,90,34.9
+2026-09-13,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,376,177,199,76.2
+2026-09-13,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,366,306,60,25.5
+2026-09-13,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,369,252,117,45.4
+2026-09-14,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,1,366,270,96,44.1
+2026-09-14,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,1,373,249,124,57.2
+2026-09-14,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,1,367,308,59,26.9
+2026-09-15,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,363,222,141,57.9
+2026-09-15,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,373,235,138,62.6
+2026-09-15,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,361,295,66,29.6
+2026-09-16,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,369,243,126,49.2
+2026-09-16,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,380,209,171,64.9
+2026-09-16,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,376,319,57,23.2
+2026-09-17,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,364,224,140,58.1
+2026-09-17,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,376,207,169,67.9
+2026-09-17,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,371,335,36,14.9
+2026-09-18,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,373,209,164,65.0
+2026-09-18,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,378,303,75,29.5
+2026-09-18,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,365,306,59,24.9
+2026-09-19,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,367,218,149,65.2
+2026-09-19,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,366,283,83,35.6
+2026-09-19,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,362,276,86,38.9
+2026-09-20,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,375,164,211,93.3
+2026-09-20,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,365,307,58,22.9
+2026-09-20,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,379,270,109,47.3
+2026-09-21,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,380,205,175,78.1
+2026-09-21,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,378,227,151,61.0
+2026-09-21,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,360,270,90,34.5
+2026-09-22,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,376,210,166,68.4
+2026-09-22,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,361,241,120,50.6
+2026-09-22,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,371,305,66,26.8
+2026-09-23,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,380,225,155,69.8
+2026-09-23,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,375,203,172,66.3
+2026-09-23,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,373,323,50,22.7
+2026-09-24,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,375,209,166,64.6
+2026-09-24,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,368,234,134,53.4
+2026-09-24,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,378,335,43,19.3
+2026-09-25,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,371,189,182,69.4
+2026-09-25,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,371,302,69,29.4
+2026-09-25,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,360,305,55,22.4
+2026-09-26,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,374,222,152,69.8
+2026-09-26,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,362,266,96,37.3
+2026-09-26,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,367,280,87,38.9
+2026-09-27,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,370,177,193,85.6
+2026-09-27,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,372,308,64,27.3
+2026-09-27,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,361,260,101,40.7
+2026-09-28,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,363,206,157,71.9
+2026-09-28,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,375,205,170,70.6
+2026-09-28,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,360,262,98,41.4
+2026-09-29,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,377,216,161,62.7
+2026-09-29,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,367,240,127,58.3
+2026-09-29,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,367,291,76,32.7
+2026-09-30,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,0,365,217,148,57.2
+2026-09-30,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,0,368,215,153,65.0
+2026-09-30,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,0,360,321,39,14.8
+2026-10-01,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,366,228,138,55.2
+2026-10-01,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,379,236,143,61.7
+2026-10-01,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,374,327,47,19.8
+2026-10-02,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,374,198,176,68.0
+2026-10-02,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,363,306,57,25.0
+2026-10-02,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,361,306,55,22.1
+2026-10-03,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,374,218,156,65.4
+2026-10-03,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,376,269,107,47.3
+2026-10-03,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,363,297,66,25.6
+2026-10-04,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,372,178,194,87.7
+2026-10-04,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,377,303,74,31.7
+2026-10-04,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,367,268,99,38.6
+2026-10-05,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,1,0,378,241,137,57.1
+2026-10-05,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,1,0,372,256,116,45.4
+2026-10-05,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,1,0,360,297,63,28.8
+2026-10-06,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,1,0,372,264,108,47.1
+2026-10-06,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,1,0,379,286,93,41.7
+2026-10-06,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,1,0,376,319,57,21.7
+2026-10-07,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,1,0,361,280,81,35.9
+2026-10-07,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,1,0,370,271,99,40.8
+2026-10-07,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,1,0,370,350,20,8.8
+2026-10-08,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,1,0,378,241,137,61.0
+2026-10-08,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,1,0,370,251,119,53.1
+2026-10-08,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,1,0,377,350,27,10.3
+2026-10-09,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,1,0,376,260,116,45.3
+2026-10-09,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,1,0,371,341,30,12.0
+2026-10-09,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,1,0,373,350,23,10.0
+2026-10-10,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,1,0,360,270,90,36.8
+2026-10-10,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,1,0,376,309,67,26.4
+2026-10-10,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,1,0,370,332,38,15.7
+2026-10-11,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,1,0,376,215,161,69.9
+2026-10-11,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,1,0,367,350,17,6.6
+2026-10-11,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,1,0,372,294,78,34.6
+2026-10-12,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,1,0,374,267,107,46.1
+2026-10-12,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,1,0,361,236,125,47.6
+2026-10-12,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,1,0,380,312,68,29.3
+2026-10-13,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,1,0,379,282,97,38.9
+2026-10-13,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,1,0,377,295,82,36.5
+2026-10-13,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,1,0,361,350,11,4.7
+2026-10-14,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,1,0,368,289,79,30.7
+2026-10-14,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,1,0,360,264,96,39.8
+2026-10-14,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,1,0,361,350,11,4.4
+2026-10-15,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,1,0,369,258,111,45.2
+2026-10-15,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,1,0,365,282,83,32.2
+2026-10-15,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,1,0,379,350,29,13.3
+2026-10-16,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,1,0,376,267,109,49.5
+2026-10-16,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,1,0,362,350,12,5.0
+2026-10-16,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,1,0,377,350,27,12.3
+2026-10-17,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,1,374,269,105,40.8
+2026-10-17,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,1,364,294,70,31.7
+2026-10-17,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,1,373,335,38,16.2
+2026-10-18,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,1,368,217,151,60.2
+2026-10-18,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,1,362,350,12,5.3
+2026-10-18,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,1,369,290,79,35.4
+2026-10-19,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,1,379,235,144,62.8
+2026-10-19,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,1,367,270,97,42.0
+2026-10-19,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,1,366,305,61,25.9
+2026-10-20,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,1,371,262,109,45.4
+2026-10-20,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,1,377,281,96,38.7
+2026-10-20,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,1,375,332,43,17.9
+2026-10-21,Wednesday,breakfast,"Pasta/Macaroni, Bread+Jam/Butter, Tea/Coffee, Milk",2,0,0,0,1,369,303,66,25.1
+2026-10-21,Wednesday,lunch,"Rice & Roti, Masoor Dal, Papad, Salad, Beans-Aloo Fry, Parwal Curry",0,0,0,0,1,370,254,116,46.0
+2026-10-21,Wednesday,dinner,"Rice & Roti, Arhar Dal, Potato Fry, Mutton / Kadhai Paneer, Gulab Jamun",3,1,1,0,1,376,350,26,11.0
+2026-10-22,Thursday,breakfast,"Onion Uttapam, Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,378,210,168,69.1
+2026-10-22,Thursday,lunch,"Rice & Roti, Dalma, Curd, Veg Fried Chips, Ghanta",0,0,0,0,0,371,214,157,61.5
+2026-10-22,Thursday,dinner,"Rice & Roti, Moong Dal, Chips, Bhindi-Aloo, Egg Chicken Bharta / Paneer Bhurji, Kheer",3,1,1,0,0,367,320,47,19.0
+2026-10-23,Friday,breakfast,"Methi Puri, Sabji, Tea/Coffee, Milk",1,0,0,0,0,370,210,160,67.1
+2026-10-23,Friday,lunch,"SPECIAL LUNCH: Chicken / Veg Biryani, Roti, Chips, Raita, Paneer Kadhai",3,1,0,0,0,369,287,82,37.0
+2026-10-23,Friday,dinner,"Rice & Paratha, Arhar Dal, Dry Mix Veg, Chicken Kasa / Paneer Bhurji",3,1,0,0,0,366,315,51,20.5
+2026-10-24,Saturday,breakfast,"Idli Sambar (3 pc), Chutney, Bread+Jam/Butter, Tea/Coffee, Milk",1,0,0,0,0,360,208,152,59.5
+2026-10-24,Saturday,lunch,"Rice & Roti, Moong Dal, Papad, Salad, Dahi Baigan, Fish Curry / Veg Navratna",2,1,0,0,0,362,266,96,41.2
+2026-10-24,Saturday,dinner,"Jeera Rice & Roti, Dal Fry, Chips, Gobi Pakoda, Chole Curry, Jalebi / Suji Halwa",2,0,1,0,0,371,280,91,37.8
+2026-10-25,Sunday,breakfast,"Upma, Ghugni, Bread+Jam/Butter, Tea/Coffee, Milk",0,0,0,0,0,361,183,178,75.0
+2026-10-25,Sunday,lunch,"Fried Rice & Roti, Toor Dal, Curd, Karela Chips, Chicken / Paneer Masala, Cone Ice-cream",3,1,1,0,0,374,314,60,24.5
+2026-10-25,Sunday,dinner,"Rice & Roti, Arhar Dal, Salad, Chips, Aloo-Baigan-Tomato Bharta, Soyabean Chilli",1,0,0,0,0,363,265,98,41.3
+2026-10-26,Monday,breakfast,"Chole Bhature (2 pc), Tea/Coffee, Milk",1,0,0,0,0,364,221,143,59.1
+2026-10-26,Monday,lunch,"Rice & Roti, Dalma, Papad, Curd, Tomato Khatta, Soyabean Curry",0,0,0,0,0,371,220,151,58.9
+2026-10-26,Monday,dinner,"Rice & Roti, Masoor Dal, Salad, Veg Chips, Veg Tadka, Pahala Rasgulla",1,0,1,0,0,366,268,98,42.1
+2026-10-27,Tuesday,breakfast,"Aloo Paratha (1 pc), Sauce/Pickle, Tea/Coffee, Milk",1,0,0,0,0,368,195,173,77.3
+2026-10-27,Tuesday,lunch,"Jeera Rice & Roti, Arhar Dal, Chips, Paneer Bhurji, Ghanta",1,0,0,0,0,376,249,127,49.0
+2026-10-27,Tuesday,dinner,"Rice & Roti, Chana Dal, Aloo Banana Chips, Egg Curry / Mix Veg",2,1,0,0,0,375,293,82,32.8

@@ -1,0 +1,23 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mess Planner · IIIT Bhubaneswar</title><link rel="stylesheet" href="style.css"></head><body>
+<header><div><h1>🍛 Mess Food Planner</h1><p>Ground Floor Mess · 350 students · ML-based cooking quantity</p></div>
+<nav><button class="on" data-t="pred">Predict</button><button data-t="models">Models</button><button data-t="stats">Attendance</button><button data-t="log">Log Actuals</button></nav></header>
+<main>
+<section id="pred" class="tab"><div class="grid"><div class="card"><h2>Tomorrow's plan</h2>
+<label>Date<input type="date" id="date"></label>
+<label>Meal<select id="meal"><option value="breakfast">Breakfast</option><option value="lunch">Lunch</option><option value="dinner">Dinner</option></select></label>
+<div class="menu" id="menu"></div>
+<label>Special level (0 normal – 3 big special)<select id="special"><option>0</option><option>1</option><option>2</option><option>3</option></select></label>
+<div class="checks"><label><input type="checkbox" id="nonveg"> Non-veg</label><label><input type="checkbox" id="dessert"> Dessert</label>
+<label><input type="checkbox" id="exam"> 📝 Exam time</label><label><input type="checkbox" id="festival"> 🎉 Festival</label></div>
+<label>Currently cooking for<input type="number" id="current" value="370"></label>
+<label>Model<select id="model"></select></label><button class="go" id="go">Predict demand</button></div>
+<div class="card" id="result"><h2>Result</h2><p class="muted">Pick a date and meal, then press Predict.</p></div></div></section>
+<section id="models" class="tab hide"><div class="card"><h2>Model comparison (time-based test set)</h2><table id="mt"></table><div id="bt"></div></div></section>
+<section id="stats" class="tab hide"><div class="card"><h2>Average students attending (from records)</h2><table id="st"></table></div></section>
+<section id="log" class="tab hide"><div class="card narrow"><h2>Log actual numbers</h2><p class="muted">Add after each meal; models retrain automatically.</p>
+<label>Date<input type="date" id="ldate"></label><label>Meal<select id="lmeal"><option>breakfast</option><option>lunch</option><option>dinner</option></select></label>
+<label>Meals prepared<input type="number" id="lprep"></label><label>Meals served<input type="number" id="lserved"></label><label>Leftover kg (optional)<input type="number" step="0.1" id="lkg"></label>
+<div class="checks"><label><input type="checkbox" id="lexam"> Exam</label><label><input type="checkbox" id="lfest"> Festival</label></div>
+<button class="go" id="lgo">Save &amp; retrain</button><p id="lmsg" class="muted"></p></div></section>
+</main><script src="app.js"></script></body></html>
